@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2925b254-f137-469b-9661-fcc171055087" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGAKtWLKq8pXiXKD4HroqwVT0M" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/apitests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jamal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intelliJ\jdbc-practice\src\test\java\Day6_gson" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="apitests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intelliJ\jdbc-practice\src\test\java\apitests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.JsonSchemaValidation.jsonSchemaValidationForSpartan">
+    <configuration name="BookItAuthTest.getAllcampusWithAccessToken" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.BookItAuthTest" />
+      <option name="METHOD_NAME" value="getAllcampusWithAccessToken" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonSchemaValidation.jsonSchemaValidationForSpartan" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day8_JsonSchema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day8_JsonSchema" />
+      <option name="MAIN_CLASS_NAME" value="Day8_JsonSchema.JsonSchemaValidation" />
+      <option name="METHOD_NAME" value="jsonSchemaValidationForSpartan" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POSTMethod.PostNewSpartanWithPOJO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day6_gson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day6_gson" />
+      <option name="MAIN_CLASS_NAME" value="Day6_gson.POSTMethod" />
+      <option name="METHOD_NAME" value="PostNewSpartanWithPOJO" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanPutDelete.DeleteASpartan" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.SpartanPutDelete" />
+      <option name="METHOD_NAME" value="DeleteASpartan" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanPutDelete.updatingSpartan" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.SpartanPutDelete" />
+      <option name="METHOD_NAME" value="updatingSpartan" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JsonSchemaValidation.jsonSchemaValidationForSpartan" />
+        <item itemvalue="TestNG.BookItAuthTest.getAllcampusWithAccessToken" />
+        <item itemvalue="TestNG.SpartanPutDelete.DeleteASpartan" />
+        <item itemvalue="TestNG.SpartanPutDelete.updatingSpartan" />
+        <item itemvalue="TestNG.POSTMethod.PostNewSpartanWithPOJO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2925b254-f137-469b-9661-fcc171055087" name="Default Changelist" comment="" />
+      <created>1580661996646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580661996646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3054" y="278" key="#Inspections" timestamp="1580847242248">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3054" y="278" key="#Inspections/0.0.5057.1440@0.0.5057.1440" timestamp="1580847242248" />
+    <state x="2973" y="293" width="1016" height="909" key="#Intentions" timestamp="1580665608278">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="2973" y="293" width="1016" height="909" key="#Intentions/0.0.5057.1440@0.0.5057.1440" timestamp="1580665608278" />
+    <state x="2589" y="126" width="1754" height="1143" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581281633806">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="2589" y="126" width="1754" height="1143" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581281633806" />
+    <state x="3739" y="332" key="#com.intellij.ide.util.MemberChooser" timestamp="1581872079699">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3739" y="332" key="#com.intellij.ide.util.MemberChooser/0.0.5057.1440@0.0.5057.1440" timestamp="1581872079699" />
+    <state x="3086" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581540992062">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3086" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581540992062" />
+    <state x="3561" y="586" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581270569074">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3561" y="586" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581270569074" />
+    <state x="2581" y="491" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581529820117">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="2581" y="491" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581529820117" />
+    <state x="3166" y="517" width="505" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581543045090">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3166" y="517" width="505" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.5057.1440@0.0.5057.1440" timestamp="1581543045090" />
+    <state x="3701" y="294" key="FileChooserDialogImpl" timestamp="1581973015652">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3701" y="294" key="FileChooserDialogImpl/0.0.5057.1440@0.0.5057.1440" timestamp="1581973015652" />
+    <state width="2277" height="244" key="GridCell.Tab.0.bottom" timestamp="1582653177697">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1835" height="235" key="GridCell.Tab.0.bottom/0.0.5057.1440@0.0.5057.1440" timestamp="1582032390284" />
+    <state width="2277" height="244" key="GridCell.Tab.0.bottom/0.0.5058.1440@0.0.5058.1440" timestamp="1582653177697" />
+    <state width="2277" height="244" key="GridCell.Tab.0.center" timestamp="1582653177696">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1835" height="235" key="GridCell.Tab.0.center/0.0.5057.1440@0.0.5057.1440" timestamp="1582032390283" />
+    <state width="2277" height="244" key="GridCell.Tab.0.center/0.0.5058.1440@0.0.5058.1440" timestamp="1582653177696" />
+    <state width="2277" height="244" key="GridCell.Tab.0.left" timestamp="1582653177696">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1835" height="235" key="GridCell.Tab.0.left/0.0.5057.1440@0.0.5057.1440" timestamp="1582032390283" />
+    <state width="2277" height="244" key="GridCell.Tab.0.left/0.0.5058.1440@0.0.5058.1440" timestamp="1582653177696" />
+    <state width="2277" height="244" key="GridCell.Tab.0.right" timestamp="1582653177697">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1835" height="235" key="GridCell.Tab.0.right/0.0.5057.1440@0.0.5057.1440" timestamp="1582032390284" />
+    <state width="2277" height="244" key="GridCell.Tab.0.right/0.0.5058.1440@0.0.5058.1440" timestamp="1582653177697" />
+    <state x="2878" y="271" key="Maven.ArtifactSearchDialog" timestamp="1581452326056">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="2878" y="271" key="Maven.ArtifactSearchDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581452326056" />
+    <state x="2892" y="260" key="SettingsEditor" timestamp="1581543370109">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="2892" y="260" key="SettingsEditor/0.0.5057.1440@0.0.5057.1440" timestamp="1581543370109" />
+    <state x="3175" y="447" key="chooseDestDirectoryDialog" timestamp="1581543045056">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3175" y="447" key="chooseDestDirectoryDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581543045056" />
+    <state x="2507" y="474" key="com.intellij.ide.util.TipDialog" timestamp="1581613505377">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3189" y="342" key="com.intellij.ide.util.TipDialog/0.0.1857.1080/1920.0.2560.1040@1920.0.2560.1040" timestamp="1580854850607" />
+    <state x="2507" y="474" key="com.intellij.ide.util.TipDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581613505377" />
+    <state x="3080" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580837283495">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3080" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.5057.1440@0.0.5057.1440" timestamp="1580837283495" />
+  </component>
+</project>
